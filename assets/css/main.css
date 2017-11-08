@@ -1,0 +1,178 @@
+* {
+	margin: 0px;
+	padding: 0px;	
+	box-sizing: border-box; 
+	font-family: "Arial";
+}
+
+body {
+	background-color: #268EC0;
+}
+
+header {
+	width: 100%;
+	height: 40px;
+	background-color: #1D7BA5;
+}
+
+.board {
+	background-color: #5798C0;
+	width: 120px;
+	height: 30px;
+	margin-left: 8px;
+	margin-top: 5px;
+	border-radius: 3px;
+	color: white;
+	float: left;
+}
+
+.board h5 {
+	margin-top: 11px;
+}
+
+.search {
+	background-color: #5798C0;
+	display: inline-block;
+	width: 250px;
+	height: 30px;
+	margin-left: 9px;
+	margin-top: 5px;
+	border-radius: 3px;
+	color: white;
+	float: left;
+}
+
+.fa-search {
+	float: right;
+	padding-top: 8px;
+	padding-right: 5px;
+}
+
+.logo {
+	display: inline-block;
+	padding-left: 200px;
+	padding-top: 8px;
+}
+
+.logo img {
+	max-height: 25px;
+	width: auto;
+}
+
+.fa-trello{
+	float: left;
+	padding: 8px 5px;
+	margin-right: 5px;
+}
+
+.header-i {
+	float: right;
+	color: white;
+	max-width: 300px;
+	display: inline-block;	
+	padding-top: 5px;	
+	margin-right: 8px;
+}
+
+.sum, .info, .bell {
+	width: 30px;
+	height: 30px;
+	background-color: #5798C0;
+	border-radius: 3px;
+	text-align: center;
+	padding-top: 6px;
+	display: inline-block;
+	margin-right: 3px;
+}
+
+.perfil {
+	display: inline-block;
+	float: right;
+	margin-left: 6px;
+	margin-top: -5px;
+}
+
+.perfil img {
+	border-radius: 30px;
+	width: 30px;
+	height: 30px;
+	margin-top: 5px;
+	margin-right: 2px;
+}
+
+.line2 {
+	width: 100%;
+	height: 40px;
+	color: white;
+	padding-top: 5px;
+	padding-left: 12px;
+}
+
+.text1 {
+	width: 200px;
+	height: 30px;
+	margin: 0;
+	display: inline-block;
+	float: left;
+}
+
+.star {
+	display: inline-block;
+	float: left;
+	margin-right: 5px;
+}
+
+.brief {
+	display: inline-block;
+	float: left;
+	margin: 0px 10px;
+}
+
+.menu {
+	float: right;
+}
+
+.menu i, h5 {
+	float: left;
+	margin-right: 5px;
+}
+
+form {
+	width: 250px;
+	height: 150px;
+	background-color: #fff;
+	margin-top: 30px;
+	float: left;
+	padding: 25px 5px;	
+
+}
+
+#message {
+	border: none;
+	width: 235px;
+	height: 50px;
+}	
+
+.line {
+	border: 1px solid blue;
+	margin:  0px 15px
+
+}
+
+input#button {
+	background-color: #5CAB4A	;
+	color: white;
+	min-width: 90px;
+	min-height: 30px;
+	margin-top: 10px;
+
+}
+
+.x {
+	color: #999999;
+	display: inline-block;
+	font-size: 25px;
+}
+
+
+
